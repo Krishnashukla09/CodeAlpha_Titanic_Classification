@@ -1,4 +1,4 @@
-# Titanic Classification — CodeAlpha Internship
+# Titanic Classification 
 
 This project predicts survival of passengers on the Titanic using machine learning.
 
